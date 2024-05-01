@@ -44,4 +44,4 @@ TODO: Replace the image below with your own.
 ![model_test_score.png](img/model_test_score.png)
 
 ## Summary
-I have the opportunity to practice what I learned during this course. I figured out data with good data, engineered well,  and a model wih default hyperparameters I can have very good results.s
+I have the chance to apply the knowledge acquired in this course. By utilizing quality data, conducting effective data engineering, and employing a model with default hyperparameters, I can achieve excellent results.
